@@ -1,1 +1,1 @@
-jgraph/drawio:20.8.20
+kuaifan/minder:0.1.3
