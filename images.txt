@@ -1,7 +1,1 @@
-kuaifan/php:swoole-8.0.rc15
-onlyoffice/documentserver:7.5.1.1
-kuaifan/fileview:4.2.0-SNAPSHOT-RC25
-kuaifan/export-server:0.0.1
-kuaifan/dooapprove:0.0.11
-kuaifan/doookr:0.4.3
-kuaifan/dooai:0.2.0
+jgraph/drawio:20.8.20
