@@ -1,1 +1,1 @@
-kuaifan/minder:0.1.3
+wiznote/wizserver
