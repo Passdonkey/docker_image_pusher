@@ -1,1 +1,1 @@
-ghcr.io/almarklein/timetagger
+ghcr.io/almarklein/timetagger:latest-nonroot
