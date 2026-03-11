@@ -1,1 +1,1 @@
-ghcr.io/almarklein/timetagger:latest-nonroot
+openproject/openproject:17
