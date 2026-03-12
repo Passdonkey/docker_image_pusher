@@ -1,1 +1,2 @@
-openproject/openproject:12
+surrealdb/surrealdb:v2
+lfnovo/open_notebook:v1-latest
