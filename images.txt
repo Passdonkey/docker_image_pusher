@@ -1,2 +1,1 @@
-surrealdb/surrealdb:v2
-lfnovo/open_notebook:v1-latest
+kimai/kimai2:apache
