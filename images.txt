@@ -1,1 +1,1 @@
-kimai/kimai2:apache
+traggo/server:latest
