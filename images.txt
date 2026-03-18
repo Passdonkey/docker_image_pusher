@@ -1,1 +1,1 @@
-traggo/server:latest
+ghcr.io/nagimov/agendav-docker:latest
