@@ -1,1 +1,1 @@
-tomsquest/docker-radicale
+ghcr.io/nagimov/agendav-docker:latest
