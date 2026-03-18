@@ -1,1 +1,1 @@
-tomsquest/docker-radicale
+daya0576/beaverhabits:latest
