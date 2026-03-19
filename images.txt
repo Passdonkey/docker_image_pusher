@@ -1,1 +1,1 @@
-daya0576/beaverhabits:latest
+ckulka/baikal:nginx
