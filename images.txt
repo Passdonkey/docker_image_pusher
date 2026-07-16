@@ -1,1 +1,2 @@
-opengauss/opengauss:latest
+enmotech/opengauss-lite:latest
+enmotech/opengauss:5.0.1
